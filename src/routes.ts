@@ -9,7 +9,7 @@ import { ListUserReceiveComplimentsController } from "./controllers/ListUserRece
 import { ListUserSendComplimentsController } from "./controllers/ListUserSendComplimentsController";
 import { ListTagsController } from "./controllers/ListTagsController";
 import { ListUsersController } from "./controllers/ListUsersController";
-const a = 4;
+
 const router = Router();
 
 const createUserController = new CreateUserController();
